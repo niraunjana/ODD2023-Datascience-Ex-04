@@ -137,5 +137,25 @@ Univariate Analysis
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/fa9c42e9-e925-4809-92fb-c624ef9c4e01)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/db02268f-2592-49d0-8a9a-feb2ee83b203)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/2f24e3f5-2a62-4aca-ab30-f40a13b30b29)
+```
+Bivariate Analysis
+```
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/43059205-5499-4af3-b131-630d1ad6d195)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/53878468-2645-4972-82e1-24e36ca26a6b)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/1b7485a0-87b3-473a-a4be-32d12f2fb85d)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/4a227f51-2541-4d24-9d10-bf2609093d19)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/5a774761-aa28-45fc-8d99-11f267057efd)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/7fa9a109-55ce-4d51-abed-0126ef8d6b56)
+```
+Multivariate Analysis
+```
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/cfb79950-ed23-4f42-85f8-fa73469a8998)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/0f7e0026-304c-4367-a973-493ec1c2604e)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/165dd4af-3675-44e1-bf0f-06a4699add15)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/49a3d342-9173-442c-9ada-5e104d059cf5)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/6e9c1ecf-e433-4060-aaf9-e59c6ae78a60)
+
+### RESULT 
+Thus we have read the given dataset and performed multivariate analysis using different kinds of plots
 
 
