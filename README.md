@@ -130,5 +130,12 @@ sns.pairplot(dt)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/0f54a20f-6735-4866-85c7-7d9905d7e632)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/8b861fc6-86db-476e-b78b-cfb198b79c52)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/a41b55e3-2b6b-4c6d-b2f0-d0f6d10d3cfa)
-![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/8d24f2b1-c297-4a69-830b-fcbccd600c65)
+```
+Univariate Analysis
+```
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/d6466390-7999-4f6c-91e8-a4c4edda2250)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/fa9c42e9-e925-4809-92fb-c624ef9c4e01)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/db02268f-2592-49d0-8a9a-feb2ee83b203)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/2f24e3f5-2a62-4aca-ab30-f40a13b30b29)
+
 
