@@ -128,4 +128,5 @@ sns.pairplot(dt)
 ### OUTPUT:
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/b88542f0-65bc-4f87-ac01-d683b23e6fb3)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/0f54a20f-6735-4866-85c7-7d9905d7e632)
-![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/d38b26a7-4135-462f-b0a6-eaf9e069e2a6)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-04/assets/119395610/8b861fc6-86db-476e-b78b-cfb198b79c52)
+
